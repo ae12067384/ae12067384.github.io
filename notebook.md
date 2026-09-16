@@ -31,9 +31,9 @@ Repeat Block : this is a C shaped block like all other c shaped blocks they cont
 
 Wait Until Block : this block is fairly self descriptive one it waits till a value comes back as true or false then preforms the code stack underneath btw this block is shaped like a standard main/command block it can have block above and below it as well as a slot for a Boolean block which defines what values allow the wait until block to allow a code stack to start 
 
-If Then Block	Its shape, how its condition works, and what happens when the condition is TRUE
+If Then Block : This is a c shaped block with a slot for a Boolean block and it serves similarly to the wait until block , at its core it waits until a specified value comes back as true then executes a stack of code within that c shaped block , for example you could have a if then block with a if  " parameter 1 " then ' result 1 " 
 
-Forever Block	Its shape and why programmers use it
+Forever Block	: This a c shaped
 
 ## Concepts
 
