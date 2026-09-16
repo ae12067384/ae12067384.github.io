@@ -1,16 +1,43 @@
 ## Table of Contents
 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
   - [Headings](#headings)
-
-  - [Text Formatting](#text-formatting)
+- [Text Formatting](#text-formatting)
  
 
 
 
 
+## Blocks
 
+
+Block	What Your Notes Should Include
+Hat Block	: Starts a stack of blocks they are shaped to connect to blocks below them and are usually shaped in a way so nothing can be attached on top of them 
+
+Stack / Command : these are gonna be the main components of a stack and are resposible for a majority of the commands in a stack , they are shaped in such a way that they are able to have code stacked op top of and below it as well as usually accepting some sort of reporter or booleon block usually .
+
+C-Blocks : well as the name implies they're shaped like a C kind of , these blocks have the abilty to have main/command blocks placed inside them for example one could have a stack of commands go for forever if said 
+
+blocks are placed within that forever command . they can do a vareity of things but often they act as a check to see if somthing is true or false or loops the code stack forever🏭 
+
+Reporter / Oval Block :	as the name implies this oval shaped block repots values in the form numbers and fits inside any oval shaped space in a code block , for example a distance in mm blocks 
+
+Boolean / Hexagonal Block :	these are hexagonal shaped block that at their core return true or false values that's it , they also fit inside any hexagonal shaped space in a code block 
+
+Repeat Block : this is a C shaped block like all other c shaped blocks they contained command/main blocks and get this repeats them for example you could have a move for 200mm block and put that withing a repeat block for whatever amount of time you want it to repeats and it will repeat the action in this case a move for 200 mm block  
+
+Wait Until Block : this block is fairly self descriptive one it waits till a value comes back as true or false then preforms the code stack underneath btw this block is shaped like a standard main/command block it can have block above and below it as well as a slot for a Boolean block which defines what values allow the wait until block to allow a code stack to start 
+
+If Then Block	Its shape, how its condition works, and what happens when the condition is TRUE
+
+Forever Block	Its shape and why programmers use it
+
+## Concepts
+
+## Vocabulary
 
 ## Markdown Style Guide for Coding Notebooks
 
