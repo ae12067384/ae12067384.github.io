@@ -19,7 +19,7 @@ Hat Block	: Starts a stack of blocks they are shaped to connect to blocks below 
 
 Stack / Command : these are gonna be the main components of a stack and are resposible for a majority of the commands in a stack , they are shaped in such a way that they are able to have code stacked op top of and below it as well as usually accepting some sort of reporter or booleon block usually .
 
-C-Blocks : well as the name implies they're shaped like a C kind of , these blocks have the abilty to have main/command blocks placed inside them for example one could have a stack of commands go for forever if said 
+C-Blocks : well as the name implies they're shaped like a C this gives =them the abilty to have main/command blocks placed inside them for example one could have a stack of commands go for forever if said 
 
 blocks are placed within that forever command . they can do a vareity of things but often they act as a check to see if somthing is true or false or loops the code stack forever🏭 
 
@@ -41,7 +41,7 @@ Sequence : the sequence of events is a simple yet important concept in programin
 
 Parameters : simply put is a place holder variable that when properly defined dictates what data or a value does , for example if you have a value say 800 that value by itself means nothing it not defined by any sort rules but take that same value and put it in the parameter of " move forward for X , Y or Z amount of mm " it has rules to follow instructions to execute , without parameters you essentially have loose values and data 
 
-Loops / Iteration : these are pretty much the same thing the only difference between these two is that a iteration is a loop that only repeats a certain amount of time 
+Loops / Iteration : these are pretty much the same thing the only difference between these two is that a iteration is a loop that only repeats a certain amount of time that aside the concept itself is fairly simple , all it does is loop a segment or piece of code . loops can be used for a variety of purposes whether you need to constantly update a condition or value or simply want to execute the same sequence without making a monolith of a code stack they are really a all purpose tool that can be used for all sorts of things 
 
 Sensors	How a robot gets information about its environment
 
