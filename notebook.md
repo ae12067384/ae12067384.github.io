@@ -33,10 +33,29 @@ Wait Until Block : this block is fairly self descriptive one it waits till a val
 
 If Then Block : This is a c shaped block with a slot for a Boolean block and it serves similarly to the wait until block , at its core it waits until a specified value comes back as true then executes a stack of code within that c shaped block , for example you could have a if then block with a if  " parameter 1 " then ' result 1 " 
 
-Forever Block	: This a c shaped
+Forever Block	: This a c shaped block and like all c shaped blocks main/command code can be place inside it , placing code inside a forever block causes that code to loop infinitely for as long as a program is running for example let say your trying to code a arrow that points to a center while spinning to do this you must constantly update the orientation of said arrow in this example using a forever block would be a great move since you dont have to run a bunch of the same code for the same result . 
 
 ## Concepts
 
+Sequence : the sequence of events is a simple yet important concept in programing as it tells the computer when to do what this can allow for smooth operation of the code and hence whatever project your working on be it toolpaths for a cnc machines , instructions for a robot or simply code for a game . even though it is a simple concept most dont think to hard about it is a foundational concept for anything including coding .
+
+Parameters : simply put is a place holder variable that when properly defined dictates what data or a value does , for example if you have a value say 800 that value by itself means nothing it not defined by any sort rules but take that same value and put it in the parameter of " move forward for X , Y or Z amount of mm " it has rules to follow instructions to execute , without parameters you essentially have loose values and data 
+
+Loops / Iteration : these are pretty much the same thing the only difference between these two is that a iteration is a loop that only repeats a certain amount of time 
+
+Sensors	How a robot gets information about its environment
+
+Booleans & Conditions	How TRUE/FALSE information controls a program
+
+Sense → Think → Act	How a robot senses information, makes a decision, and responds
+
+Comparisons	How < and > compare values and produce TRUE/FALSE
+
+Coordinates	How X and Y values describe the robot's location
+
+Conditionals	How programs make decisions using conditions
+
+Patterns	How recognizing repeated behavior can help create better algorithms
 ## Vocabulary
 
 ## Markdown Style Guide for Coding Notebooks
