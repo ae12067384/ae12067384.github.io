@@ -43,7 +43,7 @@ Parameters : simply put is a place holder variable that when properly defined di
 
 Loops / Iteration : these are pretty much the same thing the only difference between these two is that a iteration is a loop that only repeats a certain amount of time that aside the concept itself is fairly simple , all it does is loop a segment or piece of code . loops can be used for a variety of purposes whether you need to constantly update a condition or value or simply want to execute the same sequence without making a monolith of a code stack they are really a all purpose tool that can be used for all sorts of things 
 
-Sensors	How a robot gets information about its environment
+Sensors	: without these you are literally blind , sensors are a important part of robotics they are essential for gathering environment  
 
 Booleans & Conditions	How TRUE/FALSE information controls a program
 
