@@ -43,9 +43,9 @@ Parameters : simply put is a place holder variable that when properly defined di
 
 Loops / Iteration : these are pretty much the same thing the only difference between these two is that a iteration is a loop that only repeats a certain amount of time that aside the concept itself is fairly simple , all it does is loop a segment or piece of code . loops can be used for a variety of purposes whether you need to constantly update a condition or value or simply want to execute the same sequence without making a monolith of a code stack they are really a all purpose tool that can be used for all sorts of things 
 
-Sensors	: without these you are literally blind , sensors are a important part of robotics they are essential for gathering environment  
+Sensors	: without these you are blind , sensors are a important part of robotics they are essential for gathering environmental information , they do this with a array of sensors such as the gyro sensor , eye sensors , distance sensors so on they supply the robot with various data and allows he robot to respond to environmental stimuli.
 
-Booleans & Conditions	How TRUE/FALSE information controls a program
+Booleans & Conditions : put simply Booleans/condition's are a set of values that that can be either a true or false , for example 
 
 Sense → Think → Act	How a robot senses information, makes a decision, and responds
 
