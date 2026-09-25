@@ -68,12 +68,12 @@ This ensures your notes are easy for you (and others) to read later.
 Notebook Entry	Terms to Include
 VR Robot + Playground : the robot is the thing you control the play ground is the thing you drive around in . 
 Programming Language + Project: a programing language is get this the language that code comes in diffrent coding langauges do diffrent things but vex vr is written and based in python a project is just a file with code in it that you write thats it its really really simple .  
-Behavior + Command	Behavior, Command
-Drivetrain	Drivetrain
-Loop + Iteration	Loop, Iteration
-Sensor + Bumper Sensor	Sensor, Bumper Sensor
-Boolean + Condition + TRUE/FALSE	Boolean, Condition, TRUE, FALSE
-Distance Sensor + Threshold	Distance Sensor, Threshold
+Behavior + Command	these are really self explanatory 
+Drivetrain : the drivetrain is how the robot moves it has 4 wheels and two motors it can rotate itself drive forward and backward its not something your gonna be thinking about to hard inless your physicaly modifying the drive train on the actual robot in any other case as long as you understand the basics of its operations your fine 
+Loop + Iteration	these are really simple a loop is a loop and a iteration is a loop that only repeats a certain amount of times 
+Sensor + Bumper sensor : they're sensors they return true or false statements when prompted that's it  
+Boolean + Condition + TRUE/FALSE : a true and false statement and a Boolean statement are the same thing they are true and false statment a condtion just that a condtion somthing that must be met to allow somthing to happen  
+Distance Sensor + Threshold	Distance 
 Coordinate Plane + X/Y Coordinates	Coordinate Plane, X-axis, Y-axis, X-coordinate, Y-coordinate
 Location Sensor	Location Sensor
 Comment	Comment
