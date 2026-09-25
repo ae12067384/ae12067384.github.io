@@ -45,17 +45,18 @@ Loops / Iteration : these are pretty much the same thing the only difference bet
 
 Sensors	: without these you are blind , sensors are a important part of robotics they are essential for gathering environmental information , they do this with a array of sensors such as the gyro sensor , eye sensors , distance sensors so on they supply the robot with various data and allows he robot to respond to environmental stimuli.
 
-Booleans & Conditions : put simply Booleans/condition's are a set of values that that can be either a true or false , for example 
+Booleans & Conditions : put simply Booleans/condition's are a set of values that that can be either a true or false , for example lets say you wire a piece of code that turns on light when it sees the color red you could having something like this " if sensor detect red turn on light if senor detect anything ither then red keep searching "  
 
-Sense → Think → Act	How a robot senses information, makes a decision, and responds
+Sense → Think → Act : this is really simple its essentially the process on how robots work its senses something then it thinks about that information runs it through the code and from there makes a choice based off the information and parameters given 
 
-Comparisons	How < and > compare values and produce TRUE/FALSE
+Comparisons	: these are basically true or false statements in its simplest form it just basically seeing if one number is bigger then a other then produces a true or false statement from that  example the statement " if X>Y turn right " essentaily compares the values if x and y and sees if X is bigger if it is bigger then it produces a true statement then lets the line of code continue , and if it is not  bigger then X then it produces a false statement and halt or diverts the logic stream im over complicating it but trust me they really are quite simple 
 
-Coordinates	How X and Y values describe the robot's location
+Coordinates	: the coordinates of a robot describe its location and is often in the form of x,y and maybe z these variable's describe different postional values in refrence to a often invisible coordinate plane , most maps on vex vr have a coordinate plane in the back ground that the robot can pull information off of it can see how far it is in relation to the vetrex of the plane so if a robots postion if x=5 and y=5 we know that the postion of the robot is 5 units up and 5 units to the right in relation to the vertex of said plane  
 
-Conditionals	How programs make decisions using conditions
+Conditionals : if you have read all the entries up to this point you will often see me using if this then that and maybe if not that then something else that is a conditional in simple terms it is a statment that reqiures specfifc statments to be true that is it .  
 
-Patterns	How recognizing repeated behavior can help create better algorithms
+Patterns : to know how a patterns effects a robots code we first must know what a pattern is , a pattern is regular repeatable and predictable set of ideas behaviors ect , in coding you will often see that you have to do alot of the same actions those are patterns and luckily for you these are very easy to automate for example if you have to turn right move 200 mm turn left move 200mm and then repeat that if you can see these patterns    
+you can take advantage of that and drastically cut down on your code 
 ## Vocabulary
 
 ## Markdown Style Guide for Coding Notebooks
@@ -63,6 +64,21 @@ Patterns	How recognizing repeated behavior can help create better algorithms
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
 
 This ensures your notes are easy for you (and others) to read later.
+
+Notebook Entry	Terms to Include
+VR Robot + Playground : the robot is the thing you control the play ground is the thing you drive around in . 
+Programming Language + Project: a programing language is get this the language that code comes in diffrent coding langauges do diffrent things but vex vr is written and based in python a project is just a file with code in it that you write thats it its really really simple .  
+Behavior + Command	Behavior, Command
+Drivetrain	Drivetrain
+Loop + Iteration	Loop, Iteration
+Sensor + Bumper Sensor	Sensor, Bumper Sensor
+Boolean + Condition + TRUE/FALSE	Boolean, Condition, TRUE, FALSE
+Distance Sensor + Threshold	Distance Sensor, Threshold
+Coordinate Plane + X/Y Coordinates	Coordinate Plane, X-axis, Y-axis, X-coordinate, Y-coordinate
+Location Sensor	Location Sensor
+Comment	Comment
+Eye Sensor	Eye Sensor
+Conditional Statement	Conditional Statement
 
 ---
 
