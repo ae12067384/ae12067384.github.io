@@ -77,9 +77,19 @@ my solution was to use the location sensor and the playgrounds coordinate system
 
 i learned how to use the robots onboard position sensor 
 
+## Challenge: [disk color maze ]
 
+### Goal
 
+The goal here is to hit a series of points using only the robots onboard color sensor 
 
+### My Solution
+
+it was simple really similar to the maze with the bumper sensors i programed it so it only did its commands when it detected the proper color wasn't hard but it was very time consuming 
+
+### What I Learned
+
+i learned how to use the onboard color sensor
 
 
 
