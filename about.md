@@ -6,6 +6,6 @@ I am a young student studying robotics in school as well as mechanical and aeros
 
 ## Navigation
 
-[Notebook](notebook.mdLinks to an external site.)
+[Notebook](notebook.md)
 
 [Home](index.md)
