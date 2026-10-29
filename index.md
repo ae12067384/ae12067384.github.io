@@ -104,3 +104,5 @@ Click here to learn more → [About Me](about.mdLinks to an external site.)
 ## Notebook
 
 Click here to go to my notebook → [Notebook](notebook.mdLinks to an external site.)
+
+Click here to go to my  engineering notebook → [enginerring-notebook.md](notebook.mdLinks to an external site.)
